@@ -3,4 +3,5 @@ function res = addmul(x,y,z)
 % Woooo
 res = (x + y )* z;
 
+
 end
