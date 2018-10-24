@@ -27,11 +27,11 @@ Further details:
 
 # Reference
 
-https://git-scm.com/downloads - Git official download page
-https://git-scm.com/downloads/guis - list of GUI clients
-https://www.atlassian.com/git/tutorials - excellent beginner tutorials
-https://guides.github.com/ - tutorials specifically for GitHub
-http://git.github.io/git-reference/ - Git commands reference
-https://www.gitignore.io/ - generates .gitignore file for you
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - syntax for writing README files
-https://choosealicense.com/ - help for choosing a license
+- https://git-scm.com/downloads - Git official download page
+- https://git-scm.com/downloads/guis - list of GUI clients
+- https://www.atlassian.com/git/tutorials - excellent beginner tutorials
+- https://guides.github.com/ - tutorials specifically for GitHub
+- http://git.github.io/git-reference/ - Git commands reference
+- https://www.gitignore.io/ - generates .gitignore file for you
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - syntax for writing README files
+- https://choosealicense.com/ - help for choosing a license
